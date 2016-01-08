@@ -18,6 +18,7 @@ REQUIREMENTS
 This module requires the following modules:
 
  * Diff
+ * Workflow
 
 
 INSTALLATION

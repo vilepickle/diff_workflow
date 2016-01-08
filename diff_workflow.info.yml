@@ -4,3 +4,4 @@ description: 'Allows the diff module to show differences between workflow status
 core: 8.x
 dependencies:
   - diff
+  - workflow
